@@ -1,0 +1,20 @@
+.carousel .thumbs-wrapper {
+    display: none;
+}
+.main-slide header.bg-light{
+    margin-top: -400px;
+}
+.carousel .control-prev.control-arrow:before{
+    border-right: 40px solid #fff;
+}
+.carousel .control-next.control-arrow:before{
+    border-left: 40px solid #fff;
+}
+.carousel .control-dots .dot{
+    width: 20px;
+    height: 20px;
+    margin: -8px 8px;
+}
+.carousel.carousel-slider .control-arrow{
+    width: 200px;
+}

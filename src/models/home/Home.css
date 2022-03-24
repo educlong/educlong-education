@@ -1,0 +1,11 @@
+
+main .nav-link.h6.px-4, main .col.mb-5.h-100.text-decoration-none {
+    cursor: pointer;
+  }
+.owl-carousel .owl-stage{
+    display: flex;
+    align-items: flex-end;
+}
+main nav.navbar.navbar-expand-lg .navbar-collapse{
+  display: block!important;
+}
